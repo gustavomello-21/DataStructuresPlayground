@@ -66,7 +66,7 @@ void printQueue(NO* inicio) {
   }
   printf("\n");
   printf("\n");
-}
+}dasdaksdjn
 sadfasdfj
 void sizeQueue(NO* inicio) {
   if(inicio == NULL) {
