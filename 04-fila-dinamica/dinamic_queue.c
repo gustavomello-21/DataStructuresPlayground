@@ -86,7 +86,7 @@ void sizeQueue(NO* inicio) {
 
 int main() {
   // Sugestão para iniciar a Estrutura
-  NO* inicio = NULL;
+  NO* inicio = NULL;asdasdasdlk
   NO* fim = NULL;
 
   int option = 1;
