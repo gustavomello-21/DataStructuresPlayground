@@ -67,7 +67,7 @@ void printQueue(NO* inicio) {
   printf("\n");
   printf("\n");
 }
-
+sadfasdfj
 void sizeQueue(NO* inicio) {
   if(inicio == NULL) {
     printf("A FILA ESTÁ VAZIA\n");
