@@ -103,7 +103,7 @@ int main() {
               sizeQueue(inicio);
               break;
             case 2:
-                printf("Remover Primeiro Valor da Fila\n");
+                printf("Remover Primeiro Valor da Fila\n");asdasdçlasmdçklaMDKÇL
                 removeFirstValueInQueue(&inicio, &fim);
                 sizeQueue(inicio);
                 break;
